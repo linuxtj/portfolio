@@ -1,6 +1,6 @@
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { FaGithub, FaLinkedinIn, FaRedhat } from "react-icons/fa";
-import { SiTerraform, SiJenkins, SiAnsible } from "react-icons/si";
+import { SiTerraform, SiAnsible } from "react-icons/si";
 import { FadeIn } from "./FadeIn";
 
 const LeftBanner = () => {
