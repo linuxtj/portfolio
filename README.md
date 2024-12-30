@@ -63,12 +63,10 @@ Centralized logging and analysis system implementation
 
 🔍 Professional Experience
 
-- Linux Administrator/VMware Administratos - Rotech, Remote
+- Linux Administrator/VMware Administrator - Rotech, Remote
 - Linux Systems Administrator / Engineer Highmark, Remote
-- Tier 2 Help Desk Specialist Stoltenberg Consulting, Remote
-- I.T Field Technician Orlando Health, Orlando
+- U.S Army Sergeant - Leadership and Strategic Planning
 - Linux Administrator (Home Lab) - Personal Project
-- U.S. Army Sergeant - Leadership and Strategic Planning
 
 📫 Contact Information
 
