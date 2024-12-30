@@ -1,10 +1,16 @@
-Oscar Tejada | Linux Systems Administrator
+Oscar Tejada | Linux Administrator/VMware Administrator
 
 👨💻 About Me
 
 Results-driven Linux Systems Administrator with over five years of expertise in enterprise infrastructure management and cloud operations. Specializing in automation, configuration management, and DevOps practices. Known for maintaining 99.9% system uptime and implementing cost-effective infrastructure solutions.
 
 🛠️ Technical Expertise
+
+Proficient in UNIX, Linux, Windows, Bash, Ansible, Python, AD,
+LDAP, Azure, AWS, Office 365 applications, Storage Technologies, Networking,
+Command-line tools, Application Servers, Oracle Database, MySQL, system tools like
+Nagios, ServiceNow, BMC Remedy, Splunk, Cronjobs, Dyanatrace, Grafana, Kibana,
+Prometheus, DataDog, and more
 
 - Systems Administration: RedHat Enterprise Linux, Red Hat Satelite, CentOS
 - Automation & DevOps: Ansible, Terraform, Jenkins, Bash Scripting
@@ -26,8 +32,8 @@ Results-driven Linux Systems Administrator with over five years of expertise in 
 
 
 - CompTIA Linux+ Certified (March 2024)
-- RHCSA (In Progress - Expected December 2024)
-- RHCE (In Progress - Expected April 2025)
+- RHCSA (In Progress)
+- RHCE (In Progress)
 
 🚀 Featured Projects
 
@@ -57,7 +63,10 @@ Centralized logging and analysis system implementation
 
 🔍 Professional Experience
 
-- Linux Administrator - Select Designs, Lakeland, FL
+- Linux Administrator/VMware Administratos - Rotech, Remote
+- Linux Systems Administrator / Engineer Highmark, Remote
+- Tier 2 Help Desk Specialist Stoltenberg Consulting, Remote
+- I.T Field Technician Orlando Health, Orlando
 - Linux Administrator (Home Lab) - Personal Project
 - U.S. Army Sergeant - Leadership and Strategic Planning
 
@@ -65,7 +74,6 @@ Centralized logging and analysis system implementation
 
 - Email: linuxtj19@gmail.com
 - Phone: (208) 420-5585
-- [https://www.linuxtj.tech]
 - [https://www.linkedin.com/in/linuxtj19/]
 - [https://github.com/linuxtj]
 
