@@ -1,6 +1,6 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectsCard";
-import {  loganalisys, linuxpatching, rsyncbackup,  userprovisioning, centralizedconfigmanagement, terraformcloudsetup } from "../assets";
+import {  loganalisys, linuxpatching, rsyncbackup, k8s-ansible-cluster,  userprovisioning, centralizedconfigmanagement, terraformcloudsetup } from "../assets";
 import { FadeIn } from "./FadeIn";
 
 const Projects = () => {
@@ -25,7 +25,7 @@ const Projects = () => {
           <ProjectsCard
             title="k8s-ansible-cluster"
             des=""
-            src={centralizedconfigmanagement}
+            src={k8s-ansible-cluster}
           />
           <ProjectsCard
             title="Hybrid Cloud Setup with Terraform"
