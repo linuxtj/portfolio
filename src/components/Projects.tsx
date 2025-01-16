@@ -1,6 +1,6 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectsCard";
-import {  loganalisys, linuxpatching, rsyncbackup, k8sansiblecluster,  userprovisioning, terraformcloudsetup } from "../assets/images/projects/";
+import {  loganalisys, linuxpatching, rsyncbackup, k8sansiblecluster,  userprovisioning, terraformcloudsetup } from "../assets/";
 import { FadeIn } from "./FadeIn";
 
 const Projects = () => {
