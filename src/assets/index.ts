@@ -8,7 +8,7 @@ import terraformcloudsetup from "./images/projects/terraformcloudsetup.jpg";
 import contactImg from "./images/contact/contactImg.webp";
 import profilepicture from "./images/profilepicture.png";
 import profilepicturet from "./images/profilepicturet.png";
-
+import k8sansiblecluster from "./images/projects/k8sansiblecluster.jpg"
 
 
 export {
@@ -22,4 +22,5 @@ export {
   linuxpatching,
   rsyncbackup,
   loganalisys,
+  k8sansiblecluster,
 };
