@@ -23,7 +23,7 @@ const Projects = () => {
             src={userprovisioning}
           />
           <ProjectsCard
-            title="Centralized Configuration Management with etcd"
+            title="k8s-ansible-cluster"
             des=""
             src={centralizedconfigmanagement}
           />
