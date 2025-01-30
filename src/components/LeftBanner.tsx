@@ -23,11 +23,13 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-          Results-driven Linux Systems Administrator with over five years of expertise in enterprise infrastructure management and cloud operations.
-          Demonstrated success in architecting scalable solutions, implementing automation frameworks, and optimizing system performance across complex environments.
-          Proven track record of reducing operational costs through innovative DevOps practices while maintaining 99.9% system uptime.
-          Known for exceptional leadership in cross-functional teams and the ability to transform technical challenges into efficient, sustainable solutions. 
-          Combines deep technical knowledge with strategic thinking to deliver robust infrastructure improvements that drive business success.
+          Linux Administrator with over 7 years of experience in multiplatform Linux environments. 
+          Hands-on expertise in networking, scripting, and systems integration. 
+          Experience working on server-based operating systems such as Red Hat Linux, CentOS, SUSE, Debian, Ubuntu, and Windows. 
+          Knowledge of current and emerging technologies like AWS, Docker, Ansible and Git. 
+          Strong communication skills, with a proven record of providing robust and reliable support to a wide range of IT infrastructures. 
+          Solid background in technical support, capacity planning, implementation and troubleshooting as well as system security. 
+          Well-motivated and experienced working in fast-paced, deadline-oriented environments.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
