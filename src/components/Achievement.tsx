@@ -14,8 +14,8 @@ const Achievement = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Junior Linux Admin/IT Support Specialist"
-            subTitle="Select Designs (May 2019 – June 2024)"
+            title="Linux Administrator / VMware Administrator"
+            subTitle="Biolife (March 2023 – Present)"
             result="Success"
           >
             <ul className="list-disc pl-4">
@@ -52,7 +52,7 @@ const Achievement = () => {
               <li>Open ports on firewall-cmd. </li>
               <li>Configure Rundeck application and setup ACL policy for Developer and Helpdesk users. </li>
               <li>Handle day to day server builds for Red Hat 7, 8, 9. </li>
-              <li>Maintained RHEL 7/6 systems across zLinux and VMware platforms, including performance monitoring, resolving network issues and tuning the system using tools such as top, iostat, vmstat, netstat, sar. </li>
+              <li>Maintained RHEL 7/6 systems `:width: ,across zLinux and VMware platforms, including performance monitoring, resolving network issues and tuning the system using tools such as top, iostat, vmstat, netstat, sar. </li>
               <li>Configured and managed Red hat satellite Network server, performing package management tasks and errata updates. </li>
               <li>Performing installation, configuration, access management, and file system management. </li>
               <li>Performed multi-node software deployment, ad hoc task execution and configuration management using ansible. </li>
@@ -66,7 +66,7 @@ const Achievement = () => {
 
           <ResumeCard
             title="Linux Systems Administrator / Engineer"
-            subTitle="HomeLab (Apr 2019 - Present)"
+            subTitle="Highmark (Sept 2019 - Feb 2023)"
             result="Success"
           >
             <ul className="list-disc pl-4">
@@ -109,7 +109,7 @@ const Achievement = () => {
           </ResumeCard>
 
           <ResumeCard
-            title="U.S Army Sergeant"
+            title="IT Team Leader"
             subTitle="U.S Army (Jan 2012 - Mar 2019)"
             result="Success"
           >
