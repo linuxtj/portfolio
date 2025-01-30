@@ -9,9 +9,11 @@ import contactImg from "./images/contact/contactImg.webp";
 import profilepicture from "./images/profilepicture.png";
 import profilepicturet from "./images/profilepicturet.png";
 import k8sansiblecluster from "./images/projects/k8sansiblecluster.jpg"
+import ansiblecontainers from ".images/projects/ansiblecontainers.jpg"
 
 
 export {
+  ansiblecontainers,
   bannerImg,
   contactImg,
   profilepicture,

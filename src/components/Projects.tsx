@@ -1,6 +1,6 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectsCard";
-import {  loganalisys, linuxpatching, rsyncbackup, k8sansiblecluster,  userprovisioning, terraformcloudsetup } from "../assets/";
+import {  loganalisys, linuxpatching, ansiblecontainers, rsyncbackup, k8sansiblecluster,  userprovisioning, terraformcloudsetup } from "../assets/";
 import { FadeIn } from "./FadeIn";
 
 const Projects = () => {
@@ -33,9 +33,9 @@ const Projects = () => {
             src={terraformcloudsetup}
           />
           <ProjectsCard
-            title="Patch Management System"
+            title="Automated deployment of an Ansible control node within a Proxmox LXC container"
             des=""
-            src={linuxpatching}
+            src={ansiblecontainers}
           />
           <ProjectsCard
             title="Backup Automation with Rsync and Cron"
