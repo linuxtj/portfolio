@@ -10,9 +10,11 @@ import profilepicture from "./images/profilepicture.png";
 import profilepicturet from "./images/profilepicturet.png";
 import k8sansiblecluster from "./images/projects/k8sansiblecluster.jpg"
 import ansiblecontainers from "./images/projects/ansiblecontainers.jpg"
+import automateduserprovisioning from "./images/projects/automateduserprovisioning.jpg"
 
 
 export {
+  automateduserprovisioning,
   ansiblecontainers,
   bannerImg,
   contactImg,

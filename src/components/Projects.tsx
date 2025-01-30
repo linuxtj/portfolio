@@ -1,6 +1,6 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectsCard";
-import {  loganalisys, ansiblecontainers, rsyncbackup, k8sansiblecluster,  userprovisioning, terraformcloudsetup } from "../assets/";
+import {  loganalisys, automateduserprovisioning, ansiblecontainers, rsyncbackup, k8sansiblecluster, terraformcloudsetup } from "../assets/";
 import { FadeIn } from "./FadeIn";
 
 const Projects = () => {
@@ -20,7 +20,7 @@ const Projects = () => {
           <ProjectsCard
             title="Automated User Provisioning and Deprovisioning"
             des=""
-            src={userprovisioning}
+            src={automateduserprovisioning}
           />
           <ProjectsCard
             title="k8s-ansible-cluster"
