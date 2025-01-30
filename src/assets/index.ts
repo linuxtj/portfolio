@@ -9,7 +9,7 @@ import contactImg from "./images/contact/contactImg.webp";
 import profilepicture from "./images/profilepicture.png";
 import profilepicturet from "./images/profilepicturet.png";
 import k8sansiblecluster from "./images/projects/k8sansiblecluster.jpg"
-import ansiblecontainers from "/home/oscartj/Projects/portfolio/src/assets/images/projects"
+import ansiblecontainers from "./images/projects/ansiblecontainers.jpg"
 
 
 export {
