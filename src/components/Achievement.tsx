@@ -19,12 +19,12 @@ const Achievement = () => {
             result="Success"
           >
             <ul className="list-disc pl-4">
-              <li>Deploy, Configure, and maintain systems across physical, virtual, and cloud environments via Red Hat Satellite</li>
-              <li>Manage complete life-cycle of Linux servers including CentOS and Red Hat Enterprise Linux Physical and Virtual Servers via Red Hat Satellite, VMware deployments and Bare metal</li>
-              <li>Worked on installation of operating systems, packages, and patches, manage and maintain user accounts, adding peripherals, system security, backup/recovery, performance tuning, troubleshooting at various levels</li>
-              <li>Managed Linux-based systems (RedHat, Fedora and Ubuntu) for a network of 200+ users.</li>
+              <li>Deploy, Configure, and maintain systems across physical, virtual, and cloud environments via Red Hat Satellite </li>
+              <li>Manage complete life-cycle of Linux servers including CentOS and Red Hat Enterprise Linux Physical and Virtual Servers via Red Hat Satellite, VMware deployments and Bare metal </li>
+              <li>Worked on installation of operating systems, packages, and patches, manage and maintain user accounts, adding peripherals, system security, backup/recovery, performance tuning, troubleshooting at various levels </li>
+              <li>Managed Linux-based systems (RedHat, Fedora and Ubuntu) for a network of 200+ users. </li>
               <li>Developed and implemented 20+ automation scripts using Bash and Python. </li>
-              <li>Manage and administer Linux systems for ongoing support using automation tools like Ansible and Bash script</li>
+              <li>Manage and administer Linux systems for ongoing support using automation tools like Ansible and Bash script </li>
               <li>Configured and maintained network services including DNS (BIND), DHCP, and firewalls (iptables, firewalld). </li>
               <li>Assisted in server migrations and upgrades including regular system updates, access control management, and SELinux configuration. </li>
               <li>Contributed 50+ Linux-specific articles to the knowledge base, reducing repeat tickets by 15% </li>
@@ -36,8 +36,8 @@ const Achievement = () => {
               <li>Deploy and configure SFTP servers on Redhat 8,9 distribution. </li>
               <li>Configuring RedHat 8, 9 Server to STIG benchmark with Oscap and Ansible playbooks. </li>
               <li>Harden server by removing or modifying various cmd services, selinux, sshd, and grub. </li>
-              <li>Executed Ansible to manage all existing servers and automate build/configuration of new servers</li>
-              <li>Migrated data, applications, and configurations to RHEL 8, ensuring compatibility and minimal downtime</li>
+              <li>Executed Ansible to manage all existing servers and automate build/configuration of new servers </li>
+              <li>Migrated data, applications, and configurations to RHEL 8, ensuring compatibility and minimal downtime </li>
               <li>Edit and configure Linux server template on Vmware. </li>
               <li>Configure Ansible Dynamic inventory for Vmware host. </li>
               <li>Create an Ansible Playbook that hardens servers. </li>
@@ -114,27 +114,27 @@ const Achievement = () => {
             result="Success"
           >
             <ul className="list-disc pl-4">
-              <li>Leadership: Led diverse teams in high-stress environments, honing skills in motivation, delegation, and conflict resolution, essential for guiding cross-functional IT teams.</li>
-              <li>Discipline and Attention to Detail: Cultivated a strong work ethic and meticulous attention to detail while adhering to strict protocols and procedures, ensuring high-quality outcomes in all tasks.</li>
-              <li>Adaptability: Thrived in rapidly changing situations, developing the ability to quickly learn new technologies and adapt strategies to meet evolving challenges.</li>
-              <li>Communication: Enhanced verbal and written communication skills by delivering clear instructions and conducting briefings, facilitating effective collaboration with stakeholders at all levels.</li>
-              <li>Problem Solving: Engaged in critical thinking and strategic planning to assess and resolve complex issues, fostering a proactive approach to identifying and mitigating potential challenges.</li>
-              <li>Troubleshooting technical issues that arise
-              <li>Provision Filesystem space with various file systems such as Ext 4, Ext 3, Ext 2
-              <li>Configure on TCP/IP network configuration
-              <li>Installed, Configured and Maintained Red Hat Servers at multiple Data Centers
-              <li>Extensive experience with Red Hat Enterprise Linux 5, 6
-              <li>Partitioned and formatted raw devices using fdisk
-              <li>Document and maintain the inventory using asset management techniques
-              <li>Experience industry standard providing 24/7 support for issues arising in productions for mission critical and non-production systems
-              <li>Created users, manage user permissions, maintain user and file system quota on RHEL servers
-              <li>Defined and setup Network/Local printers, and installed client/server applications
-              <li>Strong experience racking and cabling servers and replacing any faulty hardware
-              <li>Experience providing Unix support to maintain systems in a world-class production data center
-              <li>Decommissioning of servers, removing from rails and moving to secure cancellation location, removing all related cables and switch information to use for new customer
-              <li>Assigned sudo permissions for users to access the root privileges
-              <li>Monitored Linux systems using various tools such as Nagios
-              <li>Troubleshooting hardware and software related issues for RHEL Servers
+              <li>Leadership: Led diverse teams in high-stress environments, honing skills in motivation, delegation, and conflict resolution, essential for guiding cross-functional IT teams. </li>
+              <li>Discipline and Attention to Detail: Cultivated a strong work ethic and meticulous attention to detail while adhering to strict protocols and procedures, ensuring high-quality outcomes in all tasks. </li>
+              <li>Adaptability: Thrived in rapidly changing situations, developing the ability to quickly learn new technologies and adapt strategies to meet evolving challenges. </li>
+              <li>Communication: Enhanced verbal and written communication skills by delivering clear instructions and conducting briefings, facilitating effective collaboration with stakeholders at all levels. </li>
+              <li>Problem Solving: Engaged in critical thinking and strategic planning to assess and resolve complex issues, fostering a proactive approach to identifying and mitigating potential challenges. </li>
+              <li>Troubleshooting technical issues that arise </li>
+              <li>Provision Filesystem space with various file systems such as Ext 4, Ext 3, Ext 2 </li>
+              <li>Configure on TCP/IP network configuration </li>
+              <li>Installed, Configured and Maintained Red Hat Servers at multiple Data Centers </li>
+              <li>Extensive experience with Red Hat Enterprise Linux 5, 6 </li>
+              <li>Partitioned and formatted raw devices using fdisk </li>
+              <li>Document and maintain the inventory using asset management techniques </li>
+              <li>Experience industry standard providing 24/7 support for issues arising in productions for mission critical and non-production systems </li>
+              <li>Created users, manage user permissions, maintain user and file system quota on RHEL servers </li>
+              <li>Defined and setup Network/Local printers, and installed client/server applications </li>
+              <li>Strong experience racking and cabling servers and replacing any faulty hardware </li>
+              <li>Experience providing Unix support to maintain systems in a world-class production data center </li>
+              <li>Decommissioning of servers, removing from rails and moving to secure cancellation location, removing all related cables and switch information to use for new customer </li>
+              <li>Assigned sudo permissions for users to access the root privileges </li>
+              <li>Monitored Linux systems using various tools such as Nagios </li>
+              <li>Troubleshooting hardware and software related issues for RHEL Servers </li>
             </ul>
           </ResumeCard>
 
