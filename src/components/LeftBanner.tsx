@@ -42,7 +42,7 @@ const LeftBanner = () => {
               </span>
             </a>
             <a
-              href="https://www.linkedin.com/in/linuxtj19"
+              href="https://www.linkedin.com/in/oscartjada19"
               target="_blank"
             >
               <span className="bannerIcon">

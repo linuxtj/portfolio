@@ -19,11 +19,12 @@ const Achievement = () => {
             result="Success"
           >
             <ul className="list-disc pl-4">
-              <li>Successfully deployed and configured SFTP servers on Redhat 8/9 distribution.</li>
-              <li>Streamlined server configuration to STIG benchmarks using Oscap and Ansible.</li>
-              <li>Automated daily tasks using Ansible.</li>
+              <li>Deploy, Configure, and maintain systems across physical, virtual, and cloud environments via Red Hat Satellite</li>
+              <li>Manage complete life-cycle of Linux servers including CentOS and Red Hat Enterprise Linux Physical and Virtual Servers via Red Hat Satellite, VMware deployments and Bare metal</li>
+              <li>Worked on installation of operating systems, packages, and patches, manage and maintain user accounts, adding peripherals, system security, backup/recovery, performance tuning, troubleshooting at various levels</li>
               <li>Managed Linux-based systems (RedHat, Fedora and Ubuntu) for a network of 200+ users.</li>
               <li>Developed and implemented 20+ automation scripts using Bash and Python. </li>
+              <li>Manage and administer Linux systems for ongoing support using automation tools like Ansible and Bash script</li>
               <li>Configured and maintained network services including DNS (BIND), DHCP, and firewalls (iptables, firewalld). </li>
               <li>Assisted in server migrations and upgrades including regular system updates, access control management, and SELinux configuration. </li>
               <li>Contributed 50+ Linux-specific articles to the knowledge base, reducing repeat tickets by 15% </li>
@@ -35,8 +36,8 @@ const Achievement = () => {
               <li>Deploy and configure SFTP servers on Redhat 8,9 distribution. </li>
               <li>Configuring RedHat 8, 9 Server to STIG benchmark with Oscap and Ansible playbooks. </li>
               <li>Harden server by removing or modifying various cmd services, selinux, sshd, and grub. </li>
-              <li>Modify SFTP file permissions for external use. </li>
-              <li>Upgrade ESXI host 7.0. </li>
+              <li>Executed Ansible to manage all existing servers and automate build/configuration of new servers</li>
+              <li>Migrated data, applications, and configurations to RHEL 8, ensuring compatibility and minimal downtime</li>
               <li>Edit and configure Linux server template on Vmware. </li>
               <li>Configure Ansible Dynamic inventory for Vmware host. </li>
               <li>Create an Ansible Playbook that hardens servers. </li>
@@ -69,6 +70,20 @@ const Achievement = () => {
             result="Success"
           >
             <ul className="list-disc pl-4">
+              <li>Installation & Configuration of RHEL, Fedora Linux, and CentOS </li>
+              <li>Performed daily maintenance & system administration for Linux Infrastructure </li>
+              <li>Management of User accounts, System security, kernel performance monitoring and tuning </li>
+              <li>Worked in Dev, QA, UAT, Regression and Production environments for backup and around the clock support </li>
+              <li>Planned, documented, reviewed, and maintained system administration guidelines and policies </li>
+              <li>Performed multi-node software deployment, ad-hoc command execution, and configuration management using Ansible </li>
+              <li>Managing package install/upgrades using YUM and RPM </li>
+              <li>Performed data migration across multiple UNIX/Linux servers, and Windows Servers </li>
+              <li>Worked on VMware vSphere and dealt with ESX, ESXi bare metal servers </li>
+              <li>Created and deployed Shell scripts to automate daily repetitive activities </li>
+              <li>Configured shell scripts and Cronjobs for regular and periodic tasks as well as system administration jobs </li>
+              <li>Regularly participated in meetings for Hardware and software evaluation, recommendation, and vendor management </li>
+              <li>Extensively worked with Business, Application, Database, Network and SAN Team for project requirements </li>
+              <li>Installation, configuration, and maintenance of web servers, application servers, and database servers with Linux </li>
               <li>Designed and maintain a sophisticated home lab running multiple Linux distributions (CentOS, ARCH, Ubuntu), simulating enterprise-level environments </li>
               <li>Implemented and manage Docker containers for 10+ services, including Plex media server, Nextcloud, and GitLab, improving resource utilization by 40% </li>
               <li>Developed comprehensive bash scripts for daily backups, reducing manual intervention by 90% and ensuring data integrity </li>
@@ -104,6 +119,22 @@ const Achievement = () => {
               <li>Adaptability: Thrived in rapidly changing situations, developing the ability to quickly learn new technologies and adapt strategies to meet evolving challenges.</li>
               <li>Communication: Enhanced verbal and written communication skills by delivering clear instructions and conducting briefings, facilitating effective collaboration with stakeholders at all levels.</li>
               <li>Problem Solving: Engaged in critical thinking and strategic planning to assess and resolve complex issues, fostering a proactive approach to identifying and mitigating potential challenges.</li>
+              <li>Troubleshooting technical issues that arise
+              <li>Provision Filesystem space with various file systems such as Ext 4, Ext 3, Ext 2
+              <li>Configure on TCP/IP network configuration
+              <li>Installed, Configured and Maintained Red Hat Servers at multiple Data Centers
+              <li>Extensive experience with Red Hat Enterprise Linux 5, 6
+              <li>Partitioned and formatted raw devices using fdisk
+              <li>Document and maintain the inventory using asset management techniques
+              <li>Experience industry standard providing 24/7 support for issues arising in productions for mission critical and non-production systems
+              <li>Created users, manage user permissions, maintain user and file system quota on RHEL servers
+              <li>Defined and setup Network/Local printers, and installed client/server applications
+              <li>Strong experience racking and cabling servers and replacing any faulty hardware
+              <li>Experience providing Unix support to maintain systems in a world-class production data center
+              <li>Decommissioning of servers, removing from rails and moving to secure cancellation location, removing all related cables and switch information to use for new customer
+              <li>Assigned sudo permissions for users to access the root privileges
+              <li>Monitored Linux systems using various tools such as Nagios
+              <li>Troubleshooting hardware and software related issues for RHEL Servers
             </ul>
           </ResumeCard>
 
@@ -114,9 +145,9 @@ const Achievement = () => {
           >
             <ul className="list-disc pl-4">
               <li>CompTia Linux+ obtained in March 2024.</li>
-              <li>Red Hat Certified Systems Administrator(RHCSA). Expected date December 2024.</li>
-              <li>Microsoft Certified: Azure Administrator Associate. Expected date December 2024</li>
-              <li>Red Hat Certified Engineer(RHCE). Expected date Apr 2025</li>
+              <li>Red Hat Certified Systems Administrator(RHCSA). In Progress. </li>
+              <li>Microsoft Certified: Azure Administrator Associate. In Progress. </li>
+              <li>Red Hat Certified Engineer(RHCE). In Progress. </li>
             </ul>
           </ResumeCard>
         </div>
